@@ -15,12 +15,10 @@ body * {
 .logo:hover{
     transform: scale(1.1);
 }
-
 .navUrl {
     float: right;
     padding-top: 30px;
 }
-
 .link{
     margin-right: 80px;
     text-transform: uppercase;
@@ -46,7 +44,7 @@ body * {
     margin-top: 40px;
 }
 main {
-    width: 100%;
+    width: 97%;
     float: right;
     align-items: center;
     margin: 5px;
@@ -77,6 +75,3 @@ p {
     background-color: #AF15E9;
     transform: scale(1.1);
 }
-
-
-

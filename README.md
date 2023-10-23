@@ -44,7 +44,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
     ```sh
-    git clone https://github.com/KarolinaMonkeviciute/realEstate
+    git clone https://karolinamonkeviciute.github.io/homePage/
     ```
 2. Install NPM packages
     ```sh
